@@ -13,7 +13,7 @@ Welcome to **AlgoHub**, a comprehensive collection of algorithms and data struct
 ### Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AlgoHub.git
+git clone https://github.com/diucsecpc/AlgoHub.git
 ```
 2. Navigate to the category folder for the algorithm or data structure you're interested in.
 3. Read the explanation in the accompanying `.md` file (if available) and experiment with the code.
